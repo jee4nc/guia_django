@@ -1,6 +1,12 @@
-Trabajo de Django para curso de Desarrollo de aplicaciones WEB y Mobile.
-💻📱📋
+Trabajo  para curso de Desarrollo de aplicaciones WEB y Mobile.
+
+💻📱📋✔
 ****
+Lenguajes de programación y lenguaje de etiquetas  ocupados:
+Python-HTML5-CSS3.
+
+Framework: Django.
+
 **Integrantes:**
 
 
