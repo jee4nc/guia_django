@@ -1,11 +1,14 @@
 Trabajo  para curso de Desarrollo de aplicaciones WEB y Mobile.
 
 💻📱📋✔
+
 ****
 Lenguajes de programación y lenguaje de etiquetas  ocupados:
-Python-HTML5-CSS3.
+**Python-HTML5-CSS3**.
 
-Framework: Django.
+Framework: **Django**.
+
+- - -
 
 **Integrantes:**
 
