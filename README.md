@@ -1,4 +1,5 @@
 Trabajo de Django para curso de Desarrollo de aplicaciones WEB y Mobile.
+💻📱📋
 ****
 **Integrantes:**
 
